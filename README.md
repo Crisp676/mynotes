@@ -9,20 +9,20 @@
 - [Weekly Lecture Topics](comp1238.md)
 
 ## Schedule 
-Monday
+#Monday
 - 16:00 - COMP1236 - Fundamentals of Computer Logic
 - 18:00 - COMP1234 - Intro to Web Development
-Tuesday
+#Tuesday
 - 10:00 - COMP1238 - Intro to Data Management
 - 12:00 - MATH1162 - Math for Computer Technology
 - 16:00 - COMP1238 - Intro to Data Management
 - 18:00 - COMP1151 - IT Essentials
-Wednesday
+#Wednesday
 - 12:00 - COMP1238 - Intro to Data Management
 - 15:00 - COMP2000 - Communicating Across Context
-Thurday
+#Thurday
 - 10:00 - COMP1234 - Intro to Web Development
 - 12:00 - MATH1162 - Math for Computer Technology
 - 14:00 - COMP1151 - IT Essentials
-Friday
+#Friday
 - NO CLASS
